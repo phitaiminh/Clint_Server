@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lib/mysql-connector-java-5.1.4/src"/>
+	<classpathentry kind="src" path="SourceQLBanHang/src/main/java"/>
+	<classpathentry kind="lib" path="lib/jfoenix.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.4/mysql-connector-java-5.1.4-bin.jar"/>
+	<classpathentry kind="lib" path="SourceQLBanHang/lib/jfoenix.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
